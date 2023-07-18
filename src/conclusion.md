@@ -1,8 +1,5 @@
 # Conclusion
 
-Conclusion
-==========
-
 Promoting workplace health and safety is critical for personal and professional development, workplace productivity, and success. In this book, we have discussed strategies for promoting workplace health and safety, the impact of workplace health and safety on personal and professional development, and the benefits of applying workplace health and safety skills to enhance well-being and performance.
 
 Summary of Key Points
