@@ -1,8 +1,5 @@
 # Introduction
 
-Introduction: Overview of Workplace Health and Safety
-=====================================================
-
 Workplace health and safety are critical components of a successful organization. Employers have a responsibility to provide a safe and healthy work environment for their employees, while employees have a responsibility to follow safety guidelines and take care of themselves while on the job. In this book, we will explore strategies for promoting workplace health and safety that can enhance employee well-being and performance.
 
 The Importance of Workplace Health and Safety
