@@ -22,5 +22,4 @@ Conclusion
 
 Promoting workplace health and safety is essential for protecting employees, preventing accidents and incidents, and improving organizational success. By understanding workplace hazards, creating a culture of safety, and prioritizing employee well-being, employers can create a safer, healthier, and more productive workplace. Throughout this book, we will explore strategies for promoting workplace health and safety, and the benefits that result from doing so.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
