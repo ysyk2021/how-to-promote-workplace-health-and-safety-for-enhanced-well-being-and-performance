@@ -3,7 +3,7 @@ Enforcing Workplace Health and Safety Standards Using Audits and Inspections
 
 Enforcing workplace health and safety standards is essential for promoting a safe and healthy work environment. One effective way to enforce these standards is through audits and inspections. In this chapter, we will explore how to use audits and inspections to enforce workplace health and safety standards.
 
-1. Conducting Regular Audits
+1\. Conducting Regular Audits
 ----------------------------
 
 Regular audits are essential for ensuring that workplace health and safety standards are being met. To conduct regular audits:
@@ -13,7 +13,7 @@ Regular audits are essential for ensuring that workplace health and safety stand
 * Use a checklist: Use a checklist to ensure that all relevant workplace health and safety standards are being followed.
 * Document findings: Document audit findings and develop an action plan for addressing any issues identified.
 
-2. Performing Inspections
+2\. Performing Inspections
 -------------------------
 
 Performing inspections on a regular basis can help identify potential hazards and prevent accidents. To perform inspections:
@@ -23,7 +23,7 @@ Performing inspections on a regular basis can help identify potential hazards an
 * Use an inspection checklist: Use an inspection checklist to ensure that all potential hazards have been identified and addressed.
 * Document findings: Document inspection findings and develop an action plan for addressing any hazards identified.
 
-3. Involving Employees
+3\. Involving Employees
 ----------------------
 
 Involving employees in audits and inspections can help promote a culture of safety in the workplace. To involve employees:
@@ -32,7 +32,7 @@ Involving employees in audits and inspections can help promote a culture of safe
 * Encourage reporting: Encourage employees to report hazards and unsafe conditions.
 * Involve employees in audits and inspections: Involve employees in audits and inspections to promote ownership of workplace health and safety.
 
-4. Addressing Findings
+4\. Addressing Findings
 ----------------------
 
 Addressing findings from audits and inspections is essential for ensuring that workplace health and safety standards are being met. To address findings:
@@ -41,7 +41,7 @@ Addressing findings from audits and inspections is essential for ensuring that w
 * Prioritize actions: Prioritize actions based on the severity of the hazard and the likelihood of an incident occurring.
 * Follow up: Follow up on actions taken to ensure that they have been effective in addressing the hazard.
 
-5. Continuous Improvement
+5\. Continuous Improvement
 -------------------------
 
 Continuous improvement is essential for ensuring that workplace health and safety standards are being met over time. To continuously improve:
