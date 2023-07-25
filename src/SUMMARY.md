@@ -3,7 +3,6 @@
 - [Chapter 1: Introduction](README.md)
   - [Importance of promoting workplace health and safety for personal and professional development](chapter-1-1.md)
   - [Benefits of promoting workplace health and safety for workplace productivity and success](chapter-1-2.md)
-  - [Overview of the book](chapter-1-3.md)
 - [Chapter 2: Understanding Workplace Health and Safety](chapter-2.md)
   - [Definition of workplace health and safety](chapter-2-1.md)
   - [The impact of workplace health and safety on personal and professional development](chapter-2-2.md)
