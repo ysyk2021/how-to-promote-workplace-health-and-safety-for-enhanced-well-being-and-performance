@@ -1,5 +1,3 @@
-Chapter 6: Providing Adequate Equipment and Tools
-=================================================
 
 Providing adequate equipment and tools is essential for promoting workplace health and safety. In this chapter, we will explore the role of providing adequate equipment and tools in promoting workplace health and safety, strategies for providing adequate equipment and tools, and the use of ergonomic design and regular maintenance checks.
 

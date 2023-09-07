@@ -1,5 +1,3 @@
-Chapter 10: Applying Workplace Health and Safety Skills to Enhanced Well-Being and Performance
-==============================================================================================
 
 Applying workplace health and safety skills can have a positive impact on employee well-being and performance. In this chapter, we will discuss the benefits of applying workplace health and safety skills to enhanced well-being and performance, as well as strategies for doing so.
 

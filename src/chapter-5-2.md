@@ -1,6 +1,3 @@
-# Strategies for Encouraging Employee Wellness and Mental Health
-
-## Introduction
 
 Promoting employee wellness and mental health is crucial for creating a healthy and productive workplace. In this chapter, we will explore effective strategies that organizations can implement to encourage employee wellness and support their mental health. These strategies aim to foster a positive work environment and enhance overall well-being and performance.
 

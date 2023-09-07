@@ -1,4 +1,3 @@
-# Demonstrating Leadership and Problem-Solving Skills
 
 In this chapter, we will explore the importance of leadership and problem-solving skills in promoting workplace health and safety. We will discuss how effective leadership can inspire and empower employees to prioritize well-being, and how problem-solving skills can contribute to identifying and addressing potential risks. We will also provide practical tips for developing and demonstrating these skills within the workplace.
 

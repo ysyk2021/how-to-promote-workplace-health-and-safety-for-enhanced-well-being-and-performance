@@ -1,5 +1,3 @@
-Chapter 5: Encouraging Employee Wellness and Mental Health
-==========================================================
 
 Encouraging employee wellness and mental health is critical for promoting workplace health and safety. In this chapter, we will discuss the importance of encouraging employee wellness and mental health, strategies for doing so, and using wellness programs and stress management techniques.
 

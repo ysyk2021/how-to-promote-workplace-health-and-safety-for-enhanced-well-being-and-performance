@@ -1,5 +1,3 @@
-Chapter 7: Enforcing Workplace Health and Safety Standards
-==========================================================
 
 Enforcing workplace health and safety standards is essential for promoting a safe and healthy work environment. In this chapter, we will explore the importance of enforcing workplace health and safety standards in promoting workplace health and safety, strategies for enforcing workplace health and safety standards, and the use of audits and inspections.
 

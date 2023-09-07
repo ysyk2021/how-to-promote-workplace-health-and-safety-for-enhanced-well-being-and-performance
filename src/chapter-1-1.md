@@ -1,5 +1,3 @@
-Importance of Promoting Workplace Health and Safety for Personal and Professional Development
-======================================================================================================================
 
 Promoting workplace health and safety is critical for personal and professional development. In this chapter, we will discuss the importance of promoting workplace health and safety for personal and professional development.
 

@@ -1,5 +1,3 @@
-Using Leadership and Communication Practices
-================================================================================================
 
 Using leadership and communication practices is essential for building a culture of health and safety in the workplace. In this chapter, we will discuss the importance of effective leadership and communication practices in promoting workplace health and safety, as well as strategies for using these practices.
 

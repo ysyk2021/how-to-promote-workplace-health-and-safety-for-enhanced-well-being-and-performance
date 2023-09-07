@@ -1,5 +1,3 @@
-Enforcing Workplace Health and Safety Standards Using Audits and Inspections
-=======================================================================================
 
 Enforcing workplace health and safety standards is essential for promoting a safe and healthy work environment. One effective way to enforce these standards is through audits and inspections. In this chapter, we will explore how to use audits and inspections to enforce workplace health and safety standards.
 

@@ -1,4 +1,4 @@
-# Introduction
+
 
 Workplace health and safety is an essential aspect of organizational success. It is critical to promoting enhanced well-being and performance among employees. The environment in which employees work has a significant impact on their physical, emotional, and mental health. As such, offering a safe and healthy work environment is crucial to enhancing their productivity and satisfaction.
 
@@ -11,3 +11,7 @@ The book is divided into several chapters that cover various topics related to w
 We hope that this book will provide organizations with valuable insights into promoting workplace health and safety. We believe that a safe and healthy work environment is a crucial foundation for enhancing employee productivity, reducing absenteeism, and nurturing a positive organizational culture.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

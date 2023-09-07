@@ -1,5 +1,3 @@
-Benefits of Promoting Workplace Health and Safety for Workplace Productivity and Success
-=================================================================================================================
 
 Promoting workplace health and safety is critical for workplace productivity and success. In this chapter, we will discuss the benefits of promoting workplace health and safety.
 

@@ -1,4 +1,3 @@
-# The Importance of Enforcing Workplace Health and Safety Standards in Promoting Workplace Health and Safety
 
 In today's fast-paced and highly competitive work environment, organizations are constantly striving to maximize productivity and efficiency. While these goals are important, they should never come at the expense of employee well-being and safety.
 

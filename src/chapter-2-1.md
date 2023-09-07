@@ -1,4 +1,3 @@
-# Definition of Workplace Health and Safety
 
 In this chapter, we will explore the concept of workplace health and safety and its significance in enhancing well-being and performance within organizations. Understanding the definition and scope of workplace health and safety is crucial for establishing a safe and productive work environment.
 

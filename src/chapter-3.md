@@ -1,5 +1,3 @@
-Chapter 3: Identifying Workplace Hazards and Risks
-==================================================
 
 Identifying workplace hazards and risks is essential for promoting a safe and healthy work environment. In this chapter, we will explore the importance of identifying workplace hazards and risks and strategies for doing so.
 

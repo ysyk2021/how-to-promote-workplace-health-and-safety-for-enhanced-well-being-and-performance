@@ -1,5 +1,3 @@
-The Role of Building a Culture of Health and Safety in Promoting Workplace Health and Safety
-================================================================================================================================================
 
 In this chapter, we will explore the significance of building a culture of health and safety within organizations to promote enhanced well-being and performance in the workplace. A strong culture of health and safety not only ensures compliance with regulations but also fosters a positive work environment where employees feel valued, supported, and motivated.
 

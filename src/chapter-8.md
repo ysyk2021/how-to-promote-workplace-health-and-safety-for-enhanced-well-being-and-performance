@@ -1,5 +1,3 @@
-Chapter 8: Building a Culture of Health and Safety
-==================================================
 
 Building a culture of health and safety is essential for promoting a safe and healthy work environment. In this chapter, we will explore the role of building a culture of health and safety in promoting workplace health and safety, strategies for building a culture of health and safety, and the use of leadership and communication practices.
 

@@ -1,4 +1,3 @@
-# Using Safety Training and Emergency Response Plans
 
 In this chapter, we will explore the importance of safety training and emergency response plans in promoting workplace health and safety for enhanced well-being and performance. Effective training programs and well-prepared emergency response plans play a critical role in preventing incidents, minimizing risks, and ensuring the safety of employees.
 

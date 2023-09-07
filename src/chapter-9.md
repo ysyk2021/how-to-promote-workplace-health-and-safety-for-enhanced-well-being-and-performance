@@ -1,5 +1,3 @@
-Chapter 9: Measuring Workplace Health and Safety Success
-========================================================
 
 Measuring workplace health and safety success is critical for evaluating the effectiveness of workplace health and safety initiatives. In this chapter, we will discuss methods for measuring workplace health and safety success and how to adjust workplace health and safety strategies based on feedback.
 

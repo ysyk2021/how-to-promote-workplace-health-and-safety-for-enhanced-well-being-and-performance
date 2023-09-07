@@ -1,4 +1,3 @@
-# Using Risk Assessments and Hazard Analyses
 
 In this chapter, we will explore the importance of conducting risk assessments and hazard analyses in promoting workplace health and safety. These processes are crucial for identifying potential risks and hazards, evaluating their severity, and implementing effective control measures to protect employees and enhance overall well-being and performance.
 

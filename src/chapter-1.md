@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Promoting workplace health and safety is essential for personal and professional development, workplace productivity, and success. In this chapter, we will discuss the importance of promoting workplace health and safety, the benefits of doing so, and provide an overview of the book.
 

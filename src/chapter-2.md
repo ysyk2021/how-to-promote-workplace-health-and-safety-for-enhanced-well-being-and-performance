@@ -1,5 +1,3 @@
-Chapter 2: Understanding Workplace Health and Safety
-====================================================
 
 Understanding workplace health and safety is critical for personal and professional development, workplace productivity, and success. In this chapter, we will discuss the definition of workplace health and safety, the impact of workplace health and safety on personal and professional development, and strategies for promoting workplace health and safety.
 

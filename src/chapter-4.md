@@ -1,5 +1,3 @@
-Chapter 4: Implementing Workplace Health and Safety Policies and Procedures
-===========================================================================
 
 Implementing workplace health and safety policies and procedures is essential for promoting workplace well-being and performance. In this chapter, we will discuss the role of implementing workplace health and safety policies and procedures, as well as strategies for doing so.
 
