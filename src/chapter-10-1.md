@@ -1,5 +1,4 @@
-Chapter 7: The Benefits of Applying Workplace Health and Safety Skills to Enhanced Well-being and Performance
-=============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Incorporating workplace health and safety skills into daily operations goes beyond compliance; it yields numerous advantages for both employees and organizations. This chapter highlights the diverse benefits of applying workplace health and safety skills, ultimately leading to improved well-being and enhanced performance in the workplace.
 

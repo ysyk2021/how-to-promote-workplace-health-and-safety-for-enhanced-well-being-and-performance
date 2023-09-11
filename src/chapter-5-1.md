@@ -1,5 +1,4 @@
-Chapter 6: The Importance of Encouraging Employee Wellness and Mental Health in Promoting Workplace Health and Safety
-=====================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Workplace health and safety extend beyond physical well-being; they also encompass the mental and emotional health of employees. In this chapter, we will explore the significance of encouraging employee wellness and mental health as integral components of promoting workplace health and safety.
 

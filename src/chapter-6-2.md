@@ -1,5 +1,4 @@
-Chapter 4: Strategies for Providing Adequate Equipment and Tools
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Ensuring workplace health and safety relies heavily on the availability and proper use of adequate equipment and tools. In this chapter, we will delve into strategies and best practices to provide employees with the necessary resources for their tasks, ultimately enhancing well-being and performance while minimizing safety risks.
 

@@ -1,5 +1,4 @@
-Chapter 5: Strategies for Enforcing Workplace Health and Safety Standards
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Enforcing workplace health and safety standards is essential to ensure that the policies and procedures put in place are followed consistently. In this chapter, we will explore effective strategies and methods for enforcing these standards, which are crucial for enhancing well-being and performance in the workplace.
 

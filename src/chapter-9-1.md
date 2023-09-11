@@ -1,5 +1,4 @@
-Chapter 10: Methods for Measuring Workplace Health and Safety Success
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Evaluating the success of workplace health and safety initiatives is essential to ensure ongoing improvement and the well-being of employees. In this chapter, we will explore various methods and metrics for effectively measuring workplace health and safety success.
 

@@ -1,5 +1,4 @@
-Chapter 2: The Importance of Identifying Workplace Hazards and Risks in Promoting Workplace Health and Safety
-=============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Ensuring workplace health and safety begins with a thorough understanding and identification of potential hazards and risks. In this chapter, we will explore the critical importance of identifying workplace hazards and risks as the foundation for promoting a safe and healthy work environment that enhances overall well-being and performance.
 

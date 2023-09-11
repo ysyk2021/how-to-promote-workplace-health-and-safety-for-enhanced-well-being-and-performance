@@ -1,5 +1,4 @@
-Chapter 3: Strategies for Promoting Workplace Health and Safety
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore a range of effective strategies and best practices for promoting workplace health and safety. Creating a safe and healthy work environment is crucial not only for the well-being of employees but also for enhancing overall performance and productivity.
 

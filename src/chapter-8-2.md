@@ -1,5 +1,4 @@
-Chapter 5: Strategies for Building a Culture of Health and Safety
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Creating a culture of health and safety in the workplace is paramount for fostering well-being and enhancing overall performance. In this chapter, we will delve into effective strategies that organizations can implement to cultivate a culture where safety and well-being are embedded into every aspect of the workplace.
 
